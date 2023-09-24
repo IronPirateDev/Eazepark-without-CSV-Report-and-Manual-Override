@@ -41,25 +41,30 @@ To set up and run EazePark, you'll need the following:
 ### Step 3: Clone the Repository 
 Clone the repository: `git clone https://github.com/IronPirateDev/Eazepark.git`
 ### Step 4.1: Sign In Desk(Car Entry)
-Install necessary packages:
-`pip install -r requirements.txt`
-**Run the Python code for the Sign In desk:**
-`python reader.py`
+1. Install necessary packages:
+   ```python
+   pip install -r requirements.txt'
+2. Run the Python code for the Sign In desk:
+   ```python
+   python reader.py'
 ### Step 4.2: Sign Out Desk / Payment
-Install necessary packages (if not done already):
-`pip install -r requirements.txt`
-Run the Python code for the Sign Out desk:
-`python Sign_out.py`
-## Contributing 🤝
-If you'd like to contribute to this project, please follow these steps:
+1. Install necessary packages (if not done already):
+   ```python
+   pip install -r requirements.txt'
+2. Run the Python code for the Sign Out desk:
+   ```python
+   python Sign_out.py'
 
-1) Fork the repository.
-2) Create a new branch (git checkout -b feature/your-feature).
-3) Commit your changes (git commit -m 'Add some feature').
-4) Push to the branch (git push origin feature/your-feature).
-5) Create a new Pull Request.
+## Contributing 🤝
+### If you'd like to contribute to this project, please follow these steps:
+
+1. Fork the repository.
+2. Create a new branch (git checkout -b feature/your-feature).
+3. Commit your changes (git commit -m 'Add some feature').
+4. Push to the branch (git push origin feature/your-feature).
+5. Create a new Pull Request.
+
 ## License 📜
 This project is licensed under the MIT License.
 
-# **Happy Parking! 🅿️🚀**
-
+# Happy Parking! 🅿️🚀
