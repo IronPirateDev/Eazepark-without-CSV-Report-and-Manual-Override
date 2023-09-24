@@ -38,11 +38,11 @@ To set up and run EazePark, you'll need the following:
 3. In the code, replace the path to Tesseract executable:
    ```python
    pytesseract.pytesseract.tesseract_cmd = r'YOUR_PATH_TO_TESSERACT\tesseract.exe'
-**###Step 3: Clone the Repository**
+###Step 3: Clone the Repository
 Clone the repository:
 git clone https://github.com/IronPirateDev/Eazepark.git
-**###Step 4.1: Sign In Desk(Car Entry)**
-**Install necessary packages:**
+###Step 4.1: Sign In Desk(Car Entry)
+Install necessary packages:
 pip install -r requirements.txt
 **Run the Python code for the Sign In desk:**
 python reader.py
