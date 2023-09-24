@@ -42,14 +42,14 @@ To set up and run EazePark, you'll need the following:
 Clone the repository: `git clone https://github.com/IronPirateDev/Eazepark.git`
 ### Step 4.1: Sign In Desk(Car Entry)
 Install necessary packages:
-pip install -r requirements.txt
+`pip install -r requirements.txt`
 **Run the Python code for the Sign In desk:**
-python reader.py
+`python reader.py`
 ### Step 4.2: Sign Out Desk / Payment
 Install necessary packages (if not done already):
-pip install -r requirements.txt
+`pip install -r requirements.txt`
 Run the Python code for the Sign Out desk:
-python Sign_out.py
+`python Sign_out.py`
 ## Contributing 🤝
 If you'd like to contribute to this project, please follow these steps:
 
