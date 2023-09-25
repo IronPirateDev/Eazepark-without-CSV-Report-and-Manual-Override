@@ -39,21 +39,21 @@ To set up and run EazePark, you'll need the following:
    ```python
    pytesseract.pytesseract.tesseract_cmd = r'YOUR_PATH_TO_TESSERACT\tesseract.exe'
 ### Step 3: Clone the Repository 
-1. Clone the repository:
+3. Clone the repository:
    ```python
    git clone https://github.com/IronPirateDev/Eazepark.git'
 ### Step 4.1: Sign In Desk(Car Entry)
-1. Install necessary packages:
+4. Install necessary packages:
    ```python
    pip install -r requirements.txt'
-2. Run the Python code for the Sign In desk:
+5. Run the Python code for the Sign In desk:
    ```python
    python reader.py'
 ### Step 4.2: Sign Out Desk / Payment
-1. Install necessary packages (if not done already):
+6. Install necessary packages (if not done already):
    ```python
    pip install -r requirements.txt'
-2. Run the Python code for the Sign Out desk:
+7. Run the Python code for the Sign Out desk:
    ```python
    python Sign_out.py'
 
